@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(56, 90, 79);
+}
+
+h2 {
+  color: rgb(212, 197, 179);
+}
+
+h3 {
+  color: rgb(212, 197, 179);
+}
+
+h4 {
+  color: rgb(212, 197, 179);
+}
+
+ul,
+li {
+  color: bisque;
+}
+
+.judul {
+  background-color: brown;
+}
